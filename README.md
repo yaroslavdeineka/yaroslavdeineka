@@ -54,10 +54,14 @@
 
 ## 📊 GitHub Stats
 
-[![Yaroslav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaroslavdeineka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/yaroslavdeineka)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavdeineka&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/yaroslavdeineka)
+![](https://github.com/yaroslavdeineka/github-stats/raw/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/yaroslavdeineka/github-stats/raw/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/yaroslavdeineka/github-stats/raw/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/yaroslavdeineka/github-stats/raw/generated/languages.svg#gh-light-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yaroslavdeineka&theme=tokyonight&hide_border=true)](https://github.com/yaroslavdeineka)
+
+<sub>Stats by <a href="https://github.com/jstrieb/github-stats">jstrieb/github-stats</a></sub>
 
 </div>
 
