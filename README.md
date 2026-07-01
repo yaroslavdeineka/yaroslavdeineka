@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi 👋, I'm Yaroslav Deineka
 
 ### Finance & Analytics · MSc · Cambridge 🇬🇧
@@ -8,9 +10,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yaroslavdeineka)
 ![Profile Views](https://komarev.com/ghpvc/?username=yaroslavdeineka&label=Profile%20views&color=2563eb&style=for-the-badge)
 
+</div>
+
 ---
 
-## 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
 - 📚 **MSc International Business with Business Analytics** — Anglia Ruskin University, Cambridge *(on track for Distinction)*
 - 💼 **Project Manager** @ KM Group of Companies — logistics & freight forwarding, built LCL division from scratch
@@ -21,7 +25,7 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 | Project | Stack | Description |
 |---|---|---|
@@ -29,6 +33,8 @@
 | [US Demand Shocks → ASEAN](https://github.com/yaroslavdeineka) | Python · pandas · OLS | Panel data regression, 912 obs, 1999–2017; Malaysia R²=0.476 |
 
 ---
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -40,15 +46,25 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
 [![Yaroslav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaroslavdeineka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/yaroslavdeineka)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavdeineka&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/yaroslavdeineka)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yaroslavdeineka&theme=tokyonight&hide_border=true)](https://github.com/yaroslavdeineka)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yaroslavdeineka&theme=tokyonight&hide_border=true)](https://github.com/yaroslavdeineka)
+
+</div>
 
 ---
 
+<div align="center">
+
 *"Data is only as valuable as the decisions it drives."*
+
+</div>
